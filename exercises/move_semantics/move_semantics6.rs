@@ -13,13 +13,13 @@ fn main() {
 }
 
 // Should not take ownership
-fn get_char(data: String) -> char {
+fn get_char(&data: String) -> char {
     data.chars().last().unwrap()
 }
 
 // Should take ownership
 fn string_uppercase(mut data: &String) {
-    data = &data.to_uppercase();
+    data = data.to_uppercase();
 
     println!("{}", data);
 }
