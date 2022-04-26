@@ -4,6 +4,10 @@
 // I AM NOT DONE
 
 enum Message {
+    ChangeColor((i32, i32, i32)),
+    Echo(String),
+    Move(Point),
+    Quit
     // TODO: implement the message variant types based on their usage below
 }
 
@@ -36,6 +40,7 @@ impl State {
     }
 
     fn process(&mut self, message: Message) {
+        match message 
         // TODO: create a match expression to process the different message variants
     }
 }
