@@ -1,10 +1,9 @@
 // enums3.rs
 // Address all the TODOs to make the tests pass!
 
-// I AM NOT DONE
 
 enum Message {
-    ChangeColor((i32, i32, i32)),
+    ChangeColor((u8, u8, u8)),
     Echo(String),
     Move(Point),
     Quit
@@ -40,7 +39,12 @@ impl State {
     }
 
     fn process(&mut self, message: Message) {
-        match message 
+        match message {
+            Message::ChangeColor(col) => self.change_color(col),
+            Message::Echo(str) => self.echo(str),
+            Message::Move(ptr) => self.move_position(ptr),
+            Message::Quit => self.quit(),
+        }
         // TODO: create a match expression to process the different message variants
     }
 }
