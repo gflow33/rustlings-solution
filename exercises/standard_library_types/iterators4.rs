@@ -1,8 +1,24 @@
 // iterators4.rs
 
-// I AM NOT DONE
 
 pub fn factorial(num: u64) -> u64 {
+   
+    let mut factorial = 1;
+
+    if num < 0 {
+        println!("0");
+    } else if num == 0 {
+        println!("1");
+    } else {
+        for i in 1..num + 1 {
+            factorial *= i
+        }
+        println!("{}", factorial)
+    }
+    factorial
+
+
+
     // Complete this function to return the factorial of num
     // Do not use:
     // - return
