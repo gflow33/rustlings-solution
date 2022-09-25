@@ -1,0 +1,7 @@
+./color.go
+./convert.go
+./errors.go
+./input.go
+./print.go
+./text.go
+./time.go

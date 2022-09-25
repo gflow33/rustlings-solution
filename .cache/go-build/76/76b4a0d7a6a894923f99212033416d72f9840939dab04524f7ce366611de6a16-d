@@ -1,0 +1,11 @@
+./aur_source.go
+./clean.go
+./cmd.go
+./get.go
+./globals.go
+./install.go
+./main.go
+./print.go
+./query.go
+./upgrade.go
+./vcs.go
