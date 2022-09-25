@@ -1,176 +1,3 @@
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo new exercism_exercises
-cd exercism_exercises/
-code
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo test
-cargo test
- cargo test -- --include-ignored
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
- cargo test -- --include-ignored
-cargo run
-cargo run
-code practice/
-$ git clone git@github.com:sunface/rust-by-practice.git
-$ git clone git@github.com:sunface/rust-by-practice.git
-$ git clone @github.com:sunface/rust-by-practice.git
-$ git clone github.com:sunface/rust-by-practice.git
-git clone https://github.com/sunface/rust-by-practice.git
-cargo install mdbook
-cd rust-by-practice && mdbook serve en/
-git clone https://github.com/gflow33/Substrate-Saturday-Assingments.git
-cargo run
-cargo test
-cargo run
-cargo new testing
-cargo new testin
-cd testin
-ls
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-sudo snap innstall exercism
-sudo snap install exercism
-exercism version
-exercism configure --token=7cb74525-549c-493f-a7ad-a07c217360ca
-exercism download --exercise=resistor-color --track=rust
-ls
-cd snap/exercism/5/exercism/rust/
-ls
-cd resistor-color/
-ls
-cd ..
-code
-cd
-history
-cd rust-by-practice && mdbook serve en/
-cd rust-by-practice && mdbook serve en/
-cargo run
-ls
-cd 5
-ls
-cd exercism/
-cargo run
-ls
-ls rust
-cd rust/resistor-color/
-ls
-cargo run
-cargo test
-cargo test
-cargo test
-cargo test
- cargo test -- --include-ignored
- cargo test -- --include-ignored
- cargo test -- --include-ignored
-cargo test
-ls
-cd 5/
-ls
-cd exercism
-ls
-cd rust/
-ls
-cd resistor-color/
-cargo test
-cargo test test_black
-cargo test
-cargo test
-history
-exercism submit <resistor-color>
-exercism submit src/lib.rs Cargo.toml
-cargo test
-exercism submit src/lib.rs Cargo.toml
-cargo test
-htop
-cd rust-by-practice && mdbook serve en/
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cargo run
-cd rust-by-practice && mdbook serve en/
-cd rust-by-practice && mdbook serve en/
-cd
-git clone https://github.com/Polkadex-Substrate/Polkadex.git
-git clone https://github.com/Polkadex-Substrate/Polkadex.git
-git clone https://github.com/Polkadex-Substrate/Polkadex.git
-cd rust-by-practice && mdbook serve en/
-cd
-git clone https://github.com/AeroRust/nmea.git
-ls
-cd nmea/
-ls
-cd src
 ls
 cd sentences/
 ls
@@ -498,3 +325,176 @@ cd
 sudo pacman -Syyuu
 sudo pacman -S discord
 ./Discord 
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+./target/release/node-kitties --tmp --dev
+./target/release/node-kitties --tmp --dev
+./target/release/node-kitties --tmp --dev
+cargo build -p pallet-mykitties
+./target/release/node-kitties --tmp --dev
+git init
+ls
+sudo pacmaan -S discord
+sudo pacman -S discord
+cd Downloads/
+./target discord-0.0.20.tar.gz 
+./target Discord
+sudo tar -xvzf discord-0.0.20.tar.gz -C opt
+sudo tar -xvzf discord-0.0.20.tar.gz
+sudo ln -sf Discord/Discord /usr/bin/Discord
+ls
+ls
+cd
+ls
+cd
+cd /
+ls
+cd usr/bin/
+ls -la | grep Discord 
+cd Downloads/Discord && sudo nano discord.desktop
+ls
+ls | grep b
+ls
+ls | grep b
+ls | grep opt
+cd
+ls
+cd Downloads/Discord && sudo nano discord.desktop
+cd Downloads/Discord && sudo nano discord.desktop
+cd
+cd Downloads/
+sudo cp -r Discord/discord.desktop /usr/share/applications
+cd
+discord
+discord
+discord
+cd Downloads/
+cd Discord/
+./Discord 
+./Discord 
+./Discord 
+cd Discord/
+cd Downloads/
+cd Discord/
+./Discord 
+cd Downloads/Discord/
+./Discord 
+history | grep cargo
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build --release
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+htop
+cd Downloads/Discord/
+./Discord 
+yarn start
+cd Downloads/Discord/
+./Discord 
+./Discord 
+cd kitties-tutorial/
+history | grep cargo build
+
+history | grep cargo build
+history | grep cargobuild
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build --release
+cargo build --release
+cargo build --release
+cargo build --release
+cargo build --release
+cargo build --release
+cargo build --release
+./target/release/node-kitties --dev --tmp
+cargo build --release
+./target/release/node-kitties --dev --tmp
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+./target/release/node-kitties --dev --tmp
+cd
+git clone https://github.com/gflow33/dropbox-clone.git
+cd dropbox-clone/
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo build -p pallet-mykitties
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+cargo +nightly build --release
+kickstart https://github.com/sacha-l/kickstart-substrate
+cd dropbox
+ls
+cd pallets/
+ls
+cd dropbox/
+ls
+cd src/lib.rs 
+nano src/lib.rs 
+nano Cargo.toml 
+cd
+ls
